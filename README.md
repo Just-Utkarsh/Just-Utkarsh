@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30532155/README.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yo,%20I'm%20Utkarsh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Just%20a%20guy%20swinging%20a%20keyboard%20like%20it's%20Excalibur&descAlignY=58&descSize=18" width="100%"/>
