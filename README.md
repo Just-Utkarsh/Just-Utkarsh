@@ -47,13 +47,21 @@
 </table>
 
 ### About Me
-<table width="830">
+<table>
   <tr>
-    <td width="830">
-      <p><b>CS student. Linux addict.</b> Perpetually one bad configuration away from reinstalling everything.</p>
-      <p>I like making things that are useful to me, especially when the alternative is some bloated piece of software doing twelve things I didn't ask for. A lot of my projects start as small ideas and end up somewhere between genuinely useful and completely unnecessary.</p>
-      <p>I spend most of my time somewhere around <b>Linux</b>, <b>machine learning</b>, <b>computer vision</b>, <b>low-level tinkering</b>, <b>cloud infrastructure</b>, and figuring out why something that worked yesterday suddenly doesn't.</p>
-      <p><i>I don't really have a "tech stack." I have a collection of things I've broken enough times to understand.</i></p>
+    <td valign="top" width="630">
+<ul>
+      <li>CS student focused on Linux, machine learning, and computer vision.</li>
+        <li>I build custom tools for myself to replace bloated software that tries to do twelve things I didn't ask for.</li>
+        <li>Spend way too much time breaking cloud infrastructure, kernels, and system configs.</li>
+        <li>Perpetually one bad configuration edit away from a total OS reinstall.</li>
+        <li>I prefer lightweight CLI utilities, Neovim, and fast terminal tools over heavy IDEs.</li>
+        <li>No rigid "tech stack"—just a collection of tools and frameworks I've broken enough times to actually understand.</li>
+      </ul>
+</td>
+
+  <td valign="middle" align="center" width="200">
+      <img width="137" height="261" alt="pngegg" src="https://github.com/user-attachments/assets/1ddc2f35-5ecb-4548-9928-cf7d08e8db9d" />
     </td>
   </tr>
 </table>
