@@ -52,10 +52,15 @@
     <td valign="top" width="630">
 <ul>
       <li>CS student focused on Linux, machine learning, and computer vision.</li>
+        <br>
         <li>I build custom tools for myself to replace bloated software that tries to do twelve things I didn't ask for.</li>
+     <br>
         <li>Spend way too much time breaking cloud infrastructure, kernels, and system configs.</li>
+     <br>
         <li>Perpetually one bad configuration edit away from a total OS reinstall.</li>
+     <br>
         <li>I prefer lightweight CLI utilities, Neovim, and fast terminal tools over heavy IDEs.</li>
+     <br>
         <li>No rigid "tech stack"—just a collection of tools and frameworks I've broken enough times to actually understand.</li>
       </ul>
 </td>
