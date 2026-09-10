@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://zenshyo.works"><img src="https://img.shields.io/badge/Portfolio-zenshyo.works-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Resume-PDF-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1hDzto_5a4--Bqwjk5hLOX3qBF6HQl1-s/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume"/></a>
 </p>
 <img width="844" height="15" alt="part2" src="https://github.com/user-attachments/assets/8b1d695f-efd2-40ab-9a1f-7dd34675504d" />
 <p>
